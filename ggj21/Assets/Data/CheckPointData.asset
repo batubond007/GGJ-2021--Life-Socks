@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 276565171de4b7443a2ddfb4405dc925, type: 3}
+  m_Name: CheckPointData
+  m_EditorClassIdentifier: 
+  CheckPoint: {x: 0, y: 0, z: 0}
+  AllItems:
+  - {fileID: 179326487212064459, guid: ba85f970644ff744882591c8ac98a717, type: 3}
+  - {fileID: 1985654503796530946, guid: 4ed76651a2874e14aafbd0e4163f8066, type: 3}
+  - {fileID: 2049398405239387381, guid: fb4ad6a4179a3b24695fd981eea9b7ea, type: 3}
+  - {fileID: 4555425611909289750, guid: 26a76cc317e3dd9479adad381cf90144, type: 3}
+  - {fileID: 377159722572172270, guid: d88a4ba3d0ad0ad4ba95941a5064bcf9, type: 3}
+  - {fileID: 6456177688556279561, guid: a146edf7b4c9c1349b53c1fc89602097, type: 3}
+  - {fileID: 821948146555553640, guid: 3f7d47e554f20084cbbabe972973bd98, type: 3}
+  - {fileID: 7161241093979278631, guid: 0ffa0f032e0ae164a91bb804e2ae7811, type: 3}
+  - {fileID: 3339577909121029145, guid: 05a321e898fa10e438ef6c50d86409e1, type: 3}
+  - {fileID: 6952815888390218533, guid: d9a59b6e4c3c7314db1ef98879b21f8c, type: 3}
+  - {fileID: 1779003653016565268, guid: 0af42517819d29544a7e1a24c09e5950, type: 3}
+  - {fileID: 8392532695058094733, guid: 304b94c0a1eaf6743ac486096c21797b, type: 3}
+  - {fileID: 4495669004719283048, guid: c6325c69afa9ba344aa1222498ea457f, type: 3}
+  LastItemIds: 
